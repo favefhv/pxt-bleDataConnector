@@ -1,0 +1,21 @@
+{
+    "name": "BLE Data Connector",  
+    "version": "0.1.2",
+    "description": "Extension which provides access to sensor data via bluetooth low energy",
+    "license": "Apache",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
